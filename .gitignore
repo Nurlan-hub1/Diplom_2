@@ -1,0 +1,5 @@
+.allure
+.idea/
+desktop.ini
+target/*
+!target/allure-results/
